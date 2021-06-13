@@ -1,9 +1,9 @@
-################################################################
-#             Asegurece de luego borrar esto                   #
-#       Y si, se que esta en ingles, aprende ingles :v         #
-#            Para quienes no lo tengan en Kali Linux           #
-#               ->   usr/share/nmap/scripts/                   #
-################################################################
+-- ################################################################
+-- #             Asegurece de luego borrar esto                   #
+-- #       Y si, se que esta en ingles, aprende ingles :v         #
+-- #            Para quienes no lo tengan en Kali Linux           #
+-- #               ->   usr/share/nmap/scripts/                   #
+-- ################################################################
 
 local nmap = require "nmap"
 local smb = require "smb"
@@ -82,7 +82,7 @@ Referencias:
 -- @args smb-vuln-ms17-010.sharename Share name to connect. Default: IPC$
 ---
 
-author = "Paulino Calderon <paulino()calderonpale.com>"
+author = "zNetShell"
 license = "Same as Nmap--See https://nmap.org/book/man-legal.html"
 categories = {"vuln", "safe"}
 
