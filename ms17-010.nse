@@ -82,7 +82,7 @@ Referencias:
 -- @args smb-vuln-ms17-010.sharename Share name to connect. Default: IPC$
 ---
 
-author = "zNetShell"
+author = "xNetting"
 license = "Same as Nmap--See https://nmap.org/book/man-legal.html"
 categories = {"vuln", "safe"}
 
